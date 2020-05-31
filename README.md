@@ -4,7 +4,7 @@ VanillaJS-based Musical Instrument playing web application. Programmer's Piano a
 ---
 
 ### Programmer's Piano
-> It is a simple JS-based web application to play Piano. Can be played by mouseclicks or by Keyboard. README file is provided in the folder of this repository.
+> It is a simple JS-based web application to play Piano. Can be played by mouseclicks or by Keyboard. 
 
 ### Coder's Drum
 > It is a web application to play Drumkit. Can be played by mouseclicks or by Keyboard keys. 
